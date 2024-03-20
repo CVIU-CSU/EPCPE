@@ -129,3 +129,5 @@ annotations/*.png
 pred_results/
 demo/inference_demo_test.ipynb
 demo/tmp
+log_dirs/**/*.json
+!log_dirs/**/*.log
