@@ -1,0 +1,13 @@
+trap "" 15
+
+# bash tools/dist_test.sh work_dirs/dab-detr_nocs_r50_Norm_CRtrain_3enc_3dec_1024_sam_preprocess/dab-detr_nocs_r50_Norm_CRtrain_3enc_3dec_1024_sam_preprocess_eval_on_camera.py work_dirs/dab-detr_nocs_r50_Norm_CRtrain_3enc_3dec_1024_sam_preprocess/epoch_40.pth 8
+#bash tools/dist_test.sh work_dirs/dab-detr_nocs_ViTDET_Norm_CRtrain_3enc_3dec_1024_sam_preprocess/dab-detr_nocs_ViTDET_Norm_CRtrain_3enc_3dec_1024_sam_preprocess_eval_on_cppf.py work_dirs/dab-detr_nocs_ViTDET_Norm_CRtrain_3enc_3dec_1024_sam_preprocess/epoch_48.pth 8 --work-dir work_dirs/dab-detr_nocs_ViTDET_Norm_CRtrain_3enc_3dec_1024_sam_preprocess/eval_on_cppf
+#bash tools/dist_test.sh work_dirs/dab-detr_sunrgbd_ViTDET_3enc_3dec_no_scale_1024_sam_preprocess_cppf_random_aug/dab-detr_sunrgbd_ViTDET_3enc_3dec_no_scale_1024_sam_preprocess_cppf_random_aug.py work_dirs/dab-detr_sunrgbd_ViTDET_3enc_3dec_no_scale_1024_sam_preprocess_cppf_random_aug/epoch_500.pth 8 --work-dir work_dirs/dab-detr_sunrgbd_ViTDET_3enc_3dec_no_scale_1024_sam_preprocess_cppf_random_aug/cppf
+bash tools/dist_test.sh work_dirs/dab-detr_nocs_ViTDINO_Norm_CRtrain_3enc_3dec_sam_preprocess/dab-detr_nocs_ViTDINO_Norm_CRtrain_3enc_3dec_sam_preprocess_eval_on_camera.py work_dirs/dab-detr_nocs_ViTDINO_Norm_CRtrain_3enc_3dec_sam_preprocess/epoch_48.pth 8
+
+trap "" 15
+if [ $? == 0 ];then
+	echo "process terminated normally"
+else
+	echo "process terminated abnormally"
+fi
