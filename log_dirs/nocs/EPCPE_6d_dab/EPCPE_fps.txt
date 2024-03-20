@@ -1,0 +1,73 @@
+03/07 12:28:02 - mmengine - [4m[37mINFO[0m - before build: 
+03/07 12:28:02 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 7.28 | uss: 0.26 | pss: 0.26 | total_proc: 1
+Loads checkpoint by local backend from path: work_dirs/fps-benchmark/dab-detr_nocs_ViTDINO_Norm_CRtrain_3enc_3dec/epoch_48.pth
+03/07 12:28:06 - mmengine - [5m[4m[33mWARNING[0m - "FileClient" will be deprecated in future. Please use io functions in https://mmengine.readthedocs.io/en/latest/api/fileio.html#file-io
+03/07 12:28:06 - mmengine - [5m[4m[33mWARNING[0m - "HardDiskBackend" is the alias of "LocalBackend" and the former will be deprecated in future.
+loading annotations into memory...
+Done (t=0.38s)
+creating index...
+index created!
+03/07 12:28:07 - mmengine - [4m[37mINFO[0m - after build: 
+03/07 12:28:07 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 8.39 | uss: 1.57 | pss: 1.57 | total_proc: 1
+03/07 12:28:13 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:16 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:16 - mmengine - [4m[37mINFO[0m - Done image [100/1000], fps: 16.6 img/s, times per image: 60.1 ms/img, cuda memory: 636 MB
+03/07 12:28:17 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.32 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:20 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:20 - mmengine - [4m[37mINFO[0m - Done image [150/1000], fps: 16.6 img/s, times per image: 60.2 ms/img, cuda memory: 636 MB
+03/07 12:28:20 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.32 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:24 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:24 - mmengine - [4m[37mINFO[0m - Done image [200/1000], fps: 16.6 img/s, times per image: 60.4 ms/img, cuda memory: 636 MB
+03/07 12:28:24 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:27 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:27 - mmengine - [4m[37mINFO[0m - Done image [250/1000], fps: 16.5 img/s, times per image: 60.4 ms/img, cuda memory: 636 MB
+03/07 12:28:27 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:31 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:31 - mmengine - [4m[37mINFO[0m - Done image [300/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:28:31 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:34 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:34 - mmengine - [4m[37mINFO[0m - Done image [350/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:28:34 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:38 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:38 - mmengine - [4m[37mINFO[0m - Done image [400/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:28:38 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:41 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:41 - mmengine - [4m[37mINFO[0m - Done image [450/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:28:41 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:45 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:45 - mmengine - [4m[37mINFO[0m - Done image [500/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:28:45 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.35 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:48 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:48 - mmengine - [4m[37mINFO[0m - Done image [550/1000], fps: 16.6 img/s, times per image: 60.4 ms/img, cuda memory: 636 MB
+03/07 12:28:48 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:52 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:52 - mmengine - [4m[37mINFO[0m - Done image [600/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:28:52 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:55 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:55 - mmengine - [4m[37mINFO[0m - Done image [650/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:28:55 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:28:59 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:28:59 - mmengine - [4m[37mINFO[0m - Done image [700/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:28:59 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:29:02 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:29:02 - mmengine - [4m[37mINFO[0m - Done image [750/1000], fps: 16.6 img/s, times per image: 60.3 ms/img, cuda memory: 636 MB
+03/07 12:29:02 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:29:06 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:29:06 - mmengine - [4m[37mINFO[0m - Done image [800/1000], fps: 16.6 img/s, times per image: 60.2 ms/img, cuda memory: 636 MB
+03/07 12:29:06 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:29:09 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:29:09 - mmengine - [4m[37mINFO[0m - Done image [850/1000], fps: 16.6 img/s, times per image: 60.2 ms/img, cuda memory: 636 MB
+03/07 12:29:09 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:29:13 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:29:13 - mmengine - [4m[37mINFO[0m - Done image [900/1000], fps: 16.6 img/s, times per image: 60.2 ms/img, cuda memory: 636 MB
+03/07 12:29:13 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:29:16 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:29:16 - mmengine - [4m[37mINFO[0m - Done image [950/1000], fps: 16.6 img/s, times per image: 60.2 ms/img, cuda memory: 636 MB
+03/07 12:29:16 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:29:20 - mmengine - [4m[37mINFO[0m - ==================================
+03/07 12:29:20 - mmengine - [4m[37mINFO[0m - Done image [1000/1000], fps: 16.6 img/s, times per image: 60.2 ms/img, cuda memory: 636 MB
+03/07 12:29:20 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
+03/07 12:29:20 - mmengine - [4m[37mINFO[0m - ============== Done ==================
+03/07 12:29:20 - mmengine - [4m[37mINFO[0m - Overall fps: 16.6 img/s, times per image: 60.2 ms/img
+03/07 12:29:20 - mmengine - [4m[37mINFO[0m - cuda memory: 372 MB
+03/07 12:29:20 - mmengine - [4m[37mINFO[0m - (GB) mem_used: 10.33 | uss: 3.89 | pss: 3.89 | total_proc: 1
