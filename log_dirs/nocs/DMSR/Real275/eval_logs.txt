@@ -1,0 +1,204 @@
+mAP:
+3D IoU at 25: 37.4
+3D IoU at 50: 16.3
+3D IoU at 75: 3.2
+10cm: 68.7
+10 degree: 48.2
+10 degree, 10cm: 33.7
+mAP:
+0 3D IoU at 25: 0.0
+0 3D IoU at 50: 0.0
+0 3D IoU at 75: 0.0
+0 5 degree, 2cm: 0.0
+0 5 degree, 5cm: 0.0
+0 10 degree, 2cm: 0.0
+0 10 degree, 5cm: 0.0
+10 degree, 10cm: 0.0
+10 degree: 0.0
+10cm: 0.0
+mAP:
+1 3D IoU at 25: 0.0
+1 3D IoU at 50: 0.0
+1 3D IoU at 75: 0.0
+1 5 degree, 2cm: 0.0
+1 5 degree, 5cm: 0.0
+1 10 degree, 2cm: 0.0
+1 10 degree, 5cm: 0.0
+10 degree, 10cm: 0.6
+10 degree: 0.6
+10cm: 70.3
+mAP:
+2 3D IoU at 25: 53.2
+2 3D IoU at 50: 25.7
+2 3D IoU at 75: 4.3
+2 5 degree, 2cm: 4.4
+2 5 degree, 5cm: 22.2
+2 10 degree, 2cm: 4.8
+2 10 degree, 5cm: 25.7
+10 degree, 10cm: 57.8
+10 degree: 97.7
+10cm: 59.4
+mAP:
+3 3D IoU at 25: 6.0
+3 3D IoU at 50: 0.9
+3 3D IoU at 75: 0.0
+3 5 degree, 2cm: 0.0
+3 5 degree, 5cm: 0.0
+3 10 degree, 2cm: 0.0
+3 10 degree, 5cm: 0.1
+10 degree, 10cm: 0.3
+10 degree: 4.0
+10cm: 56.6
+mAP:
+4 3D IoU at 25: 9.5
+4 3D IoU at 50: 3.2
+4 3D IoU at 75: 0.4
+4 5 degree, 2cm: 2.4
+4 5 degree, 5cm: 11.7
+4 10 degree, 2cm: 4.5
+4 10 degree, 5cm: 21.8
+10 degree, 10cm: 65.6
+10 degree: 79.5
+10cm: 81.4
+mAP:
+5 3D IoU at 25: 83.7
+5 3D IoU at 50: 43.6
+5 3D IoU at 75: 12.4
+5 5 degree, 2cm: 4.1
+5 5 degree, 5cm: 9.0
+5 10 degree, 2cm: 6.2
+5 10 degree, 5cm: 18.5
+10 degree, 10cm: 39.1
+10 degree: 66.8
+10cm: 51.0
+mAP:
+6 3D IoU at 25: 72.0
+6 3D IoU at 50: 24.4
+6 3D IoU at 75: 2.3
+6 5 degree, 2cm: 0.6
+6 5 degree, 5cm: 3.8
+6 10 degree, 2cm: 2.7
+6 10 degree, 5cm: 14.6
+10 degree, 10cm: 38.8
+10 degree: 40.9
+10cm: 93.2
+mAP:
+7 3D IoU at 25: 37.4
+7 3D IoU at 50: 16.3
+7 3D IoU at 75: 3.2
+7 5 degree, 2cm: 1.9
+7 5 degree, 5cm: 7.8
+7 10 degree, 2cm: 3.0
+7 10 degree, 5cm: 13.4
+10 degree, 10cm: 33.7
+10 degree: 48.2
+10cm: 68.7
+Acc:
+3D IoU at 25: 49.1
+3D IoU at 50: 29.6
+3D IoU at 75: 10.4
+10cm: 80.0
+10 degree: 57.1
+10 degree, 10cm: 45.6
+mAP:
+3D IoU at 25: 37.4
+3D IoU at 50: 16.3
+3D IoU at 75: 3.2
+10cm: 68.7
+10 degree: 48.2
+10 degree, 10cm: 33.7
+mAP:
+0 3D IoU at 25: 0.0
+0 3D IoU at 50: 0.0
+0 3D IoU at 75: 0.0
+0 5 degree, 2cm: 0.0
+0 5 degree, 5cm: 0.0
+0 10 degree, 2cm: 0.0
+0 10 degree, 5cm: 0.0
+10 degree, 10cm: 0.0
+10 degree: 0.0
+10cm: 0.0
+mAP:
+1 3D IoU at 25: 0.0
+1 3D IoU at 50: 0.0
+1 3D IoU at 75: 0.0
+1 5 degree, 2cm: 0.0
+1 5 degree, 5cm: 0.0
+1 10 degree, 2cm: 0.0
+1 10 degree, 5cm: 0.0
+10 degree, 10cm: 0.6
+10 degree: 0.6
+10cm: 70.3
+mAP:
+2 3D IoU at 25: 53.2
+2 3D IoU at 50: 25.7
+2 3D IoU at 75: 4.3
+2 5 degree, 2cm: 4.4
+2 5 degree, 5cm: 22.2
+2 10 degree, 2cm: 4.8
+2 10 degree, 5cm: 25.7
+10 degree, 10cm: 57.8
+10 degree: 97.7
+10cm: 59.4
+mAP:
+3 3D IoU at 25: 6.0
+3 3D IoU at 50: 0.9
+3 3D IoU at 75: 0.0
+3 5 degree, 2cm: 0.0
+3 5 degree, 5cm: 0.0
+3 10 degree, 2cm: 0.0
+3 10 degree, 5cm: 0.1
+10 degree, 10cm: 0.3
+10 degree: 4.0
+10cm: 56.6
+mAP:
+4 3D IoU at 25: 9.5
+4 3D IoU at 50: 3.2
+4 3D IoU at 75: 0.4
+4 5 degree, 2cm: 2.4
+4 5 degree, 5cm: 11.7
+4 10 degree, 2cm: 4.5
+4 10 degree, 5cm: 21.8
+10 degree, 10cm: 65.6
+10 degree: 79.5
+10cm: 81.4
+mAP:
+5 3D IoU at 25: 83.7
+5 3D IoU at 50: 43.6
+5 3D IoU at 75: 12.4
+5 5 degree, 2cm: 4.1
+5 5 degree, 5cm: 9.0
+5 10 degree, 2cm: 6.2
+5 10 degree, 5cm: 18.5
+10 degree, 10cm: 39.1
+10 degree: 66.8
+10cm: 51.0
+mAP:
+6 3D IoU at 25: 72.0
+6 3D IoU at 50: 24.4
+6 3D IoU at 75: 2.3
+6 5 degree, 2cm: 0.6
+6 5 degree, 5cm: 3.8
+6 10 degree, 2cm: 2.7
+6 10 degree, 5cm: 14.6
+10 degree, 10cm: 38.8
+10 degree: 40.9
+10cm: 93.2
+mAP:
+7 3D IoU at 25: 37.4
+7 3D IoU at 50: 16.3
+7 3D IoU at 75: 3.2
+7 5 degree, 2cm: 1.9
+7 5 degree, 5cm: 7.8
+7 10 degree, 2cm: 3.0
+7 10 degree, 5cm: 13.4
+10 degree, 10cm: 33.7
+10 degree: 48.2
+10cm: 68.7
+Acc:
+3D IoU at 25: 49.1
+3D IoU at 50: 29.6
+3D IoU at 75: 10.4
+10cm: 80.0
+10 degree: 57.1
+10 degree, 10cm: 45.6
